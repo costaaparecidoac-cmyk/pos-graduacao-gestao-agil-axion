@@ -1,0 +1,15 @@
+# Arquivos temporários do Sistema Operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos temporários e backups de editores de texto/Office
+*.tmp
+*.bak
+~$*
+.~lock.*
+
+# Logs locais
+*.log
