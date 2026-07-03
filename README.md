@@ -12,3 +12,4 @@ Este repositório contém a entrega oficial da Sprint de Gestão Ágil de Projet
 
 ## 📊 Governança de Engenharia (DoR & DoD)
 As especificações detalhadas de Definition of Ready (DoR) e Definition of Done (DoD) — incluindo os requisitos não funcionais de latência inferior a 2 segundos e arquitetura de mensageria assíncrona para ambientes de missão crítica — encontram-se totalmente documentadas no encerramento do arquivo `product-backlog.pdf`.
+### 🎬 Link do Vídeo de Apresentação:https://www.loom.com/share/4065deb36e414eafbcc5eaa2ca299fe5 
